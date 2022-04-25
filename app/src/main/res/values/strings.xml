@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SafeToYak</string>
+    <string name="warning">Warning</string>
+    <string name="main_warningMessage">Warning: This app uses current water levels provided by
+        https://waterservices.usgs.gov. Water levels can change rapidly with rain, please check your
+        local weather for possible storms.
+    </string>
 </resources>
